@@ -1,4 +1,6 @@
-### Hi there 👋
+# About
+
+I am interested in how humanity can live sustainably, and I see the sharing of code, data, ideas and knowledge more generally as a key component to that.
 
 <!--
 **Daniel-Mietchen/Daniel-Mietchen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
