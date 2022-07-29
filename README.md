@@ -1,3 +1,5 @@
+[![Daniel-Mietchen's Github Stats](https://github-readme-stats.vercel.app/api?username=Daniel-Mietchen&count_private=true&show_icons=true&hide=stars&hide_border=true&include_all_commits=true&dummy=1)](https://github-readme-stats.vercel.app/api?username=Daniel-Mietchen&count_private=true&show_icons=true&hide=stars&hide_border=true&include_all_commits=true)
+
 # About
 
 I am interested in how humanity can live sustainably, and I see the sharing of code, data, ideas and knowledge more generally as a key component to that.
