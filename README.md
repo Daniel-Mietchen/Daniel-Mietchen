@@ -1,5 +1,3 @@
-[![Daniel-Mietchen's Github Stats](https://github-readme-stats.vercel.app/api?username=Daniel-Mietchen&count_private=true&show_icons=true&hide=stars&hide_border=true&include_all_commits=true&dummy=1)](https://github-readme-stats.vercel.app/api?username=Daniel-Mietchen&count_private=true&show_icons=true&hide=stars&hide_border=true&include_all_commits=true)
-
 # About
 
 I am interested in how humanity can live sustainably, and I see the sharing of code, data, ideas and knowledge more generally as a key component to that.
@@ -12,3 +10,6 @@ I am interested in how humanity can live sustainably, and I see the sharing of c
 - ⚡ Fun fact: My favourite musical instrument is the [jaw harp](https://commons.wikimedia.org/wiki/File:Wiki_loves_Music_-_Hamburg-5811_(cropped).jpg).
 - 😄 Pronouns: We, not me.
 - 📫 How to reach me: ```firstname.lastname[@]igb-berlin.de``` should work, or a direct message on Twitter. Other than that, I try to keep my [ORCID profile](https://orcid.org/0000-0001-9488-1870) up to date.
+
+[![Daniel-Mietchen's Github Stats](https://github-readme-stats.vercel.app/api?username=Daniel-Mietchen&count_private=true&show_icons=true&hide=stars&hide_border=true&include_all_commits=true&dummy=1)](https://github-readme-stats.vercel.app/api?username=Daniel-Mietchen&count_private=true&show_icons=true&hide=stars&hide_border=true&include_all_commits=true)
+
