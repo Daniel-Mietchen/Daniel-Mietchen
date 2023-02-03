@@ -2,7 +2,7 @@
 
 I am interested in how humanity can live sustainably, and I see the sharing of code, data, ideas and knowledge more generally as a key component to that.
 
-- 🔭 I’m currently working on making our human society more sustainable, and its subset called academia in particular, as per [my pledges](https://github.com/Daniel-Mietchen/pledges).
+- 🔭 I’m currently working on making our human society more sustainable, and its subset called academia in particular, as per [my pledges](https://github.com/Daniel-Mietchen/pledges) and [annual resolutions](https://github.com/Daniel-Mietchen/ideas/tree/master/new-year-resolutions).
 - 🌱 I’m currently learning Korean, Python, Wikibase, ShEx and [accordion](https://commons.wikimedia.org/wiki/File:Wiki_loves_Music_-_Hamburg-5701.jpg).
 - 👯 I’m looking to collaborate on what matters or on things that make people think. 
 - 🤔 I’m looking for help with any of the above.
